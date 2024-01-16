@@ -4,7 +4,7 @@
 
 ## Description
 
-I crafted an in-depth report using Power BI, incorporating four graphs to visually represent 2013 financial data associated with various products, alongside an interactive feature enabling users to click on a specific product and alter the report to display relevant data for that chosen product. In the right corner, I also added the profit for the year 2013. 
+I crafted an in-depth report using Power BI, incorporating four graphs to visually represent 2013 financial data associated with various products, alongside an interactive feature enabling users to click on a specific product and alter the report to display relevant data for that chosen product. In the right corner, I also included profit amount for the year 2013. 
 
 ***
 
